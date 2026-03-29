@@ -61,9 +61,30 @@
 
 ## 📊 GitHub Analytics  
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=honeych85&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=honeych85&theme=tokyonight" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=honeych85&show_icons=true&theme=dracula&count_private=true&hide_border=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeych85&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=honeych85&theme=dracula&hide_border=false" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=honeych85&theme=dracula&hide_border=false" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <!-- Visitor Count -->
+  <img src="https://komarev.com/ghpvc/?username=honeych85&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </p>
 
 ---
