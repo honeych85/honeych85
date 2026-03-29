@@ -53,43 +53,115 @@
   <b>In memory banks:</b><br>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
-## 🛠️ Tech Stack  
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-</p>
 
 ## 📊 Featured Projects  
 
-### 🏥 Hospital Dashboard  
-✔ Patient analysis  
-✔ Doctor performance  
-✔ Revenue insights  
+## 🏆 My Projects
 
-### 📈 Sales Dashboard  
-✔ KPI tracking  
-✔ Trend analysis  
-✔ Data cleaning  
+<div align="center">
+
+<!-- Hospital Dashboard -->
+<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:250px; vertical-align:top; color:white;">
+  <h3>🏥 Hospital Dashboard</h3>
+  <p>Patient Analysis, Doctor Performance, Revenue Insights</p>
+  <p>
+    <img src="https://img.shields.io/badge/Power%20BI-FF9900?style=for-the-badge&logo=power-bi&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  </p>
+</div>
+
+<!-- Sales Dashboard -->
+<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:250px; vertical-align:top; color:white;">
+  <h3>📈 Sales Dashboard</h3>
+  <p>KPI Tracking, Trend Analysis, Data Cleaning</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power%20BI-FF9900?style=for-the-badge&logo=power-bi&logoColor=white" />
+  </p>
+</div>
+
+<!-- Hospital Data Analysis -->
+<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:250px; vertical-align:top; color:white;">
+  <h3>🏥 Hospital Data Analysis</h3>
+  <p>Insights & Reports</p>
+  <p>
+    <img src="https://img.shields.io/badge/Power%20BI-FF9900?style=for-the-badge&logo=power-bi&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
+  </p>
+</div>
+
+<!-- Sales Data Insights -->
+<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:250px; vertical-align:top; color:white;">
+  <h3>💹 Sales Data Insights</h3>
+  <p>Data Cleaning & Visualization</p>
+  <p>
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </p>
+</div>
+
+<!-- COVID-19 Data Tracker -->
+<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:250px; vertical-align:top; color:white;">
+  <h3>🦠 COVID-19 Data Tracker</h3>
+  <p>Trend & Spread Analysis</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  </p>
+</div>
+
+<!-- E-commerce Analytics Dashboard -->
+<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:250px; vertical-align:top; color:white;">
+  <h3>🛒 E-commerce Analytics</h3>
+  <p>Customer & Sales Insights</p>
+  <p>
+    <img src="https://img.shields.io/badge/Power%20BI-FF9900?style=for-the-badge&logo=power-bi&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
+  </p>
+</div>
+
+<!-- Employee Performance Analysis -->
+<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:250px; vertical-align:top; color:white;">
+  <h3>👨‍💼 Employee Performance</h3>
+  <p>KPI & Productivity Reports</p>
+  <p>
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </p>
+</div>
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics  
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=honeych85&show_icons=true&theme=tokyonight" />
+  <!-- GitHub stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=honeych85&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
+
+  <!-- Streak stats card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=honeych85&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeych85&layout=compact&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=honeych85&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- PR & Issue stats (optional) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=honeych85&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&hide=stars&include_all_commits=true" />
+</p>
 ## 🏆 Achievements  
 
 - 🎓 Completed **Data Analytics Training** (Power BI, SQL, Python, Excel)  
