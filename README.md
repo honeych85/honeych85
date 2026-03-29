@@ -1,54 +1,35 @@
-<!-- ================== -->
-<!-- HEADER / INTRO -->
-<!-- ================== -->
+<!-- 🔥 HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=200&section=header&text=Harikishan%20Chaudhary&fontSize=40&fontColor=ffffff" />
+</p>
+
+<!-- 🔥 INTRO -->
+<h2 align="center">Hi 👋, I'm Harikishan</h2>
+<h4 align="center">📊 Data Analyst | Power BI | SQL | Python</h4>
 
 <p align="center">
-  <h1 align="center">📊 Harikishan’s Premium GitHub Analytics Dashboard</h1>
-  <h3 align="center">💻 Data Analytics | Power BI | Python | SQL | Excel | Tableau</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Turning+Data+into+Insights;Power+BI+Developer;SQL+%7C+Python+%7C+Excel;Future+Data+Scientist" />
 </p>
 
 ---
 
-<!-- ================== -->
-<!-- STATS QUAD BLOCK -->
-<!-- ================== -->
+## 🧑‍💻 My Journey (Story Style)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=honeych85&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=honeych85&theme=tokyonight&hide_border=false" />
-</p>
+### 🔙 Past  
+- Started with **B.Sc (PCM)**  
+- Learned basics of **Excel & Data Handling**  
 
-<p align="center">
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=honeych85&theme=tokyonight&hide_border=false" />
-  <img width="48%" src="https://komarev.com/ghpvc/?username=honeych85&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
+### 🚀 Present  
+- Working on **Power BI Dashboards**  
+- Learning **SQL & Python for Data Analysis**  
+- Building real-world projects  
 
----
-
-<!-- ================== -->
-<!-- PREMIUM CARD PANELS -->
-<!-- ================== -->
-
-<p align="center">
-  <a href="https://github.com/honeych85/Hospital-Dashboard">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=honeych85&repo=Hospital-Dashboard&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/honeych85/Sales-Analytics">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=honeych85&repo=Sales-Analytics&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/honeych85/Data-Analytics-Projects">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=honeych85&repo=Data-Analytics-Projects&theme=tokyonight" />
-  </a>
-</p>
+### 🔮 Future  
+- Become a **Professional Data Analyst**  
+- Work with **real business data**  
+- Move towards **Data Science & AI**  
 
 ---
-
-<!-- ================== -->
-<!-- SKILL BARS (DASHBOARD) -->
-<!-- ================== -->
-
-### 🛠 Skills
-
 <p align="center">
   <!-- I know -->
   <b>I know:</b><br>
@@ -72,31 +53,76 @@
   <b>In memory banks:</b><br>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
-<!-- ================== -->
-<!-- TROPHIES / BADGES -->
-<!-- ================== -->
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=honeych85&theme=tokyonight" />
+
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</p>
+
+## 📊 Featured Projects  
+
+### 🏥 Hospital Dashboard  
+✔ Patient analysis  
+✔ Doctor performance  
+✔ Revenue insights  
+
+### 📈 Sales Dashboard  
+✔ KPI tracking  
+✔ Trend analysis  
+✔ Data cleaning  
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=honeych85&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=honeych85&theme=tokyonight" />
 </p>
 
 ---
 
-<!-- ================== -->
-<!-- FOOTER -->
-<!-- ================== -->
+## 🏆 Achievements  
+
+- 🎓 Completed **Data Analytics Training** (Power BI, SQL, Python, Excel)  
+- 📊 Built **Hospital Dashboard Project** with 5 interactive pages  
+- 📈 Completed **Sales Data Analysis Project** with KPI insights  
+- 💡 Developed strong skills in **Data Cleaning & Visualization**  
+- 🚀 Continuously improving through real-world data projects  
 
 <p align="center">
-  <h3>📬 Let’s Connect</h3>
-  <a href="https://www.linkedin.com/in/HarikishanChaudhary">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://github-profile-trophy.vercel.app/?username=honeych85&theme=onedark&no-frame=true&margin-w=10" />
+</p>
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/Harikishan%20Chaudhary">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:honeych8535@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
+---
+
+## ⚡ Fun Fact  
+💡 I enjoy turning raw data into meaningful dashboards  
+
+---
+
 <p align="center">
-> “Turning data into actionable insights — premium analytics from code to dashboard.” 🚀
+  🚀 *“Data is the new oil, but insight is the refinery.”*
+</p>
+
+<p align="center">
+  ⭐ Don't forget to star repositories!
 </p>
