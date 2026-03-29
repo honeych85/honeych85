@@ -54,9 +54,6 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-
-## 📊 Featured Projects  
-
 ## 🏆 My Projects
 
 <div align="center">
@@ -136,8 +133,6 @@
 </div>
 
 ---
-
-## 📊 GitHub Analytics  
 ## 📊 GitHub Analytics  
 
 <p align="center">
