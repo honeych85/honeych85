@@ -94,45 +94,100 @@
 <div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:250px; vertical-align:top; color:white;">
   <h3>💹 Sales Data Insights</h3>
   <p>Data Cleaning & Visualization</p>
+  <p## 🏆 My Projects
+
+<div align="center">
+
+<!-- Hospital Management Analytics Dashboard -->
+<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:280px; vertical-align:top; color:white;">
+  <h3>🏥 Hospital Management Analytics</h3>
+  <p>DAX Measures, KPI Design, Data Modeling</p>
   <p>
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power%20BI-FF9900?style=for-the-badge&logo=power-bi&logoColor=white" />
+    <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=power-bi&logoColor=white" />
   </p>
 </div>
 
-<!-- COVID-19 Data Tracker -->
-<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:250px; vertical-align:top; color:white;">
-  <h3>🦠 COVID-19 Data Tracker</h3>
-  <p>Trend & Spread Analysis</p>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  </p>
-</div>
-
-<!-- E-commerce Analytics Dashboard -->
-<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:250px; vertical-align:top; color:white;">
-  <h3>🛒 E-commerce Analytics</h3>
-  <p>Customer & Sales Insights</p>
+<!-- Uber Vehicle Analytics Dashboard -->
+<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:280px; vertical-align:top; color:white;">
+  <h3>🚗 Uber Vehicle Analytics</h3>
+  <p>Ride Patterns, Fleet Analysis</p>
   <p>
     <img src="https://img.shields.io/badge/Power%20BI-FF9900?style=for-the-badge&logo=power-bi&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
   </p>
 </div>
 
-<!-- Employee Performance Analysis -->
-<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:250px; vertical-align:top; color:white;">
-  <h3>👨‍💼 Employee Performance</h3>
-  <p>KPI & Productivity Reports</p>
+<!-- Indian Airline Data Analysis Dashboard -->
+<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:280px; vertical-align:top; color:white;">
+  <h3>✈️ Indian Airline Data Analysis</h3>
+  <p>Power BI, DAX Measures</p>
+  <p>
+    <img src="https://img.shields.io/badge/Power%20BI-FF9900?style=for-the-badge&logo=power-bi&logoColor=white" />
+    <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=power-bi&logoColor=white" />
+  </p>
+</div>
+
+<!-- HR Analytics Dashboard -->
+<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:280px; vertical-align:top; color:white;">
+  <h3>👥 HR Analytics Dashboard</h3>
+  <p>Employee Insights & KPI Tracking</p>
   <p>
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power%20BI-FF9900?style=for-the-badge&logo=power-bi&logoColor=white" />
+  </p>
+</div>
+
+<!-- Sales Performance Dashboard -->
+<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:280px; vertical-align:top; color:white;">
+  <h3>💹 Sales Performance Dashboard</h3>
+  <p>Excel & Power BI Analysis</p>
+  <p>
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power%20BI-FF9900?style=for-the-badge&logo=power-bi&logoColor=white" />
+  </p>
+</div>
+
+<!-- Data Warehouse Schema Design -->
+<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:280px; vertical-align:top; color:white;">
+  <h3>🗄 Data Warehouse Schema Design</h3>
+  <p>Star & Galaxy Schemas Using SQL</p>
+  <p>
+    <img src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
+  </p>
+</div>
+
+<!-- User Interface Form Development in Excel -->
+<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:280px; vertical-align:top; color:white;">
+  <h3>📄 UI Form Development in Excel</h3>
+  <p>Excel VBA Forms & Automation</p>
+  <p>
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/VBA-862633?style=for-the-badge&logo=microsoft&logoColor=white" />
+  </p>
+</div>
+
+<!-- Excel-SQL Connectivity Using VBA -->
+<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:280px; vertical-align:top; color:white;">
+  <h3>🔗 Excel-SQL Connectivity</h3>
+  <p>Using VBA & Power Query</p>
+  <p>
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
+    <img src="https://img.shields.io/badge/VBA-862633?style=for-the-badge&logo=microsoft&logoColor=white" />
+  </p>
+</div>
+
+<!-- Large Data Processing Using Python -->
+<div style="display: inline-block; background:#1e1e2f; border-radius:12px; padding:16px; margin:8px; width:280px; vertical-align:top; color:white;">
+  <h3>🐍 Large Data Processing</h3>
+  <p>Data Cleaning & Manipulation Using Python</p>
+  <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </p>
 </div>
 
 </div>
-
----
 ## 📊 GitHub Analytics  
 
 <p align="center">
