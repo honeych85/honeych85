@@ -82,29 +82,30 @@
 
 - 🐍 **Large Data Processing** – Data Cleaning & Manipulation Using Python  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-## 📊 GitHub Analytics  
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <!-- GitHub stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=honeych85&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=honeych85&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="GitHub Stats" />
 
   <!-- Streak stats card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=honeych85&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=honeych85&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeych85&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeych85&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
   <!-- Contribution Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=honeych85&theme=tokyonight&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=honeych85&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <!-- PR & Issue stats (optional) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=honeych85&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&hide=stars&include_all_commits=true" />
+  <!-- PR & Issue stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=honeych85&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&hide=stars&include_all_commits=true" alt="PR and Issue Stats" />
 </p>
 
 ## 🏆 Achievements  
