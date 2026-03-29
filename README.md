@@ -47,18 +47,16 @@
 <!-- SKILL BARS (DASHBOARD) -->
 <!-- ================== -->
 
+### 💻 Tech Stack:
+
 <p align="center">
-  <h2>📈 Skills & Proficiency</h2>
-  Power BI &nbsp;
-  <img src="https://img.shields.io/badge/85%25-Power%20BI-00d1b2?style=for-the-badge&logo=power-bi&logoColor=white" />
-  Python &nbsp;
-  <img src="https://img.shields.io/badge/90%25-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  SQL &nbsp;
-  <img src="https://img.shields.io/badge/80%25-SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  Excel &nbsp;
-  <img src="https://img.shields.io/badge/90%25-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  Tableau &nbsp;
-  <img src="https://img.shields.io/badge/85%25-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" />
 </p>
 
 ---
