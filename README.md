@@ -100,15 +100,9 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=honeych85&theme=tokyonight&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeych85&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
-</p>
+ 
 
-<p align="center">
-  <!-- PR & Issue Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=honeych85&repo=YOUR_REPO_NAME&theme=tokyonight" alt="Pinned Repo Example" />
-</p>
+ 
 
 ## 🏆 Achievements  
 
