@@ -212,6 +212,7 @@
   <!-- PR & Issue stats (optional) -->
   <img src="https://github-readme-stats.vercel.app/api?username=honeych85&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&hide=stars&include_all_commits=true" />
 </p>
+
 ## 🏆 Achievements  
 
 - 🎓 Completed **Data Analytics Training** (Power BI, SQL, Python, Excel)  
