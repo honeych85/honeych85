@@ -86,26 +86,28 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=honeych85&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="GitHub Stats" />
-
-  <!-- Streak stats card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=honeych85&theme=tokyonight" alt="GitHub Streak" />
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=honeych85&show_icons=true&theme=tokyonight&count_private=true&hide=stars,issues" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeych85&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=honeych85&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=honeych85&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
+  <!-- Contribution Graph / Activity -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=honeych85&theme=tokyonight&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
 
 <p align="center">
-  <!-- PR & Issue stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=honeych85&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&hide=stars&include_all_commits=true" alt="PR and Issue Stats" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeych85&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- PR & Issue Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=honeych85&repo=YOUR_REPO_NAME&theme=tokyonight" alt="Pinned Repo Example" />
 </p>
 
 ## 🏆 Achievements  
