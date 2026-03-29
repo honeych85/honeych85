@@ -56,8 +56,6 @@
 
 ## 🏆 My Projects
 
-## 🏆 My Projects
-
 - 🏥 **Hospital Management Analytics Dashboard** – DAX Measures, KPI Design, Data Modeling  
   ![Power BI](https://img.shields.io/badge/Power%20BI-FF9900?style=for-the-badge&logo=power-bi&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=power-bi&logoColor=white)
 
