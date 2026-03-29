@@ -70,12 +70,15 @@
 
 ## 🏆 Achievements  
 
+- 🎓 Completed **Data Analytics Training** (Power BI, SQL, Python, Excel)  
+- 📊 Built **Hospital Dashboard Project** with 5 interactive pages  
+- 📈 Completed **Sales Data Analysis Project** with KPI insights  
+- 💡 Developed strong skills in **Data Cleaning & Visualization**  
+- 🚀 Continuously improving through real-world data projects  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=honeych85&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=honeych85&theme=onedark&no-frame=true&margin-w=10" />
 </p>
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
