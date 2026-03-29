@@ -86,19 +86,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=honeych85&show_icons=true&theme=tokyonight&count_private=true&hide=stars,issues" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=honeych85&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <!-- Contribution Graph / Activity -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=honeych85&theme=tokyonight&hide_border=true&area=true" alt="GitHub Contribution Graph" />
-</p>
+ 
 
  
 
